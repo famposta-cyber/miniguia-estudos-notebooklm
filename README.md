@@ -51,6 +51,7 @@ Captura Tecnológica: Quando o Estado se torna tão dependente de um provedor es
 "Como os conceitos de 'Realpolitik' apresentados nos textos se aplicam ao atual cenário de guerra cibernética?"
 
 🛠️ Tecnologias Utilizadas
+
 NotebookLM (Sintese e Curadoria)
 
 GitHub (Versionamento e Portfólio)
